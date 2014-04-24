@@ -1,14 +1,9 @@
 $icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/";
 
-<<<<<<< HEAD
 @import 'bootstrap-sass-official/vendor/assets/stylesheets/bootstrap';
 
 // bower:scss
 @import "../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
-=======
-// bower:scss
-@import "../../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
->>>>>>> a4942b19e80f6fea697efe4a9382c3710f95c5b2
 // endbower
 
 .browsehappy {
@@ -35,7 +30,6 @@ body {
 /* Custom page header */
 .header {
     border-bottom: 1px solid #e5e5e5;
-<<<<<<< HEAD
 }
 
 /* Make the masthead heading the same height as the navigation */
@@ -44,16 +38,6 @@ body {
     margin-bottom: 0;
     line-height: 40px;
     padding-bottom: 19px;
-=======
-
-    /* Make the masthead heading the same height as the navigation */
-    h3 {
-        margin-top: 0;
-        margin-bottom: 0;
-        line-height: 40px;
-        padding-bottom: 19px;
-    }
->>>>>>> a4942b19e80f6fea697efe4a9382c3710f95c5b2
 }
 
 /* Custom page footer */
@@ -71,33 +55,20 @@ body {
 .jumbotron {
     text-align: center;
     border-bottom: 1px solid #e5e5e5;
-<<<<<<< HEAD
 }
 
 .jumbotron .btn {
     font-size: 21px;
     padding: 14px 24px;
-=======
-    .btn {
-        font-size: 21px;
-        padding: 14px 24px;
-    }
->>>>>>> a4942b19e80f6fea697efe4a9382c3710f95c5b2
 }
 
 /* Supporting marketing content */
 .marketing {
     margin: 40px 0;
-<<<<<<< HEAD
 }
 
 .marketing p + h4 {
     margin-top: 28px;
-=======
-    p + h4 {
-        margin-top: 28px;
-    }
->>>>>>> a4942b19e80f6fea697efe4a9382c3710f95c5b2
 }
 
 /* Responsive: Portrait tablets and up */
@@ -113,18 +84,10 @@ body {
         padding-left: 0;
         padding-right: 0;
     }
-<<<<<<< HEAD
-=======
-
->>>>>>> a4942b19e80f6fea697efe4a9382c3710f95c5b2
     /* Space out the masthead */
     .header {
         margin-bottom: 30px;
     }
-<<<<<<< HEAD
-=======
-
->>>>>>> a4942b19e80f6fea697efe4a9382c3710f95c5b2
     /* Remove the bottom border on the jumbotron for visual effect */
     .jumbotron {
         border-bottom: 0;

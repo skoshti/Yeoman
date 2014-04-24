@@ -9,11 +9,7 @@ root = true
 
 # Change these settings to your own preference
 indent_style = space
-<<<<<<< HEAD
 indent_size = 2
-=======
-indent_size = 4
->>>>>>> a4942b19e80f6fea697efe4a9382c3710f95c5b2
 
 # We recommend you to keep these unchanged
 end_of_line = lf

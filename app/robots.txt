@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 # robotstxt.org
-=======
-# robotstxt.org/
->>>>>>> a4942b19e80f6fea697efe4a9382c3710f95c5b2
 
 User-agent: *
