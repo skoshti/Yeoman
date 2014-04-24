@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "node": true,
   "browser": true,
   "esnext": true,
@@ -21,4 +22,25 @@
   "globals": {
     "angular": false
   }
+=======
+    "node": true,
+    "browser": true,
+    "esnext": true,
+    "bitwise": true,
+    "camelcase": true,
+    "curly": true,
+    "eqeqeq": true,
+    "immed": true,
+    "indent": 4,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "quotmark": "single",
+    "undef": true,
+    "unused": true,
+    "strict": true,
+    "trailing": true,
+    "smarttabs": true,
+    "jquery": true
+>>>>>>> a4942b19e80f6fea697efe4a9382c3710f95c5b2
 }
